@@ -1,0 +1,16 @@
+{
+  "name": "10-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Command-line SVG logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Vlada Caban",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
